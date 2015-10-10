@@ -13,3 +13,7 @@ body {
   width: 1050px;
   margin: 0 auto;
 }
+
+#searchbox {
+  width: 6000px;
+}
