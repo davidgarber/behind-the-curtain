@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+}
+
+#topbar {
+    background-color: blue;
+    height: 80px;
+    width: 1200px;
+    margin-left: -40px;
+}
+
+.fixedwidth {
+  width: 1050px;
+  margin: 0 auto;
+}
