@@ -1,8 +1,8 @@
-var behindTheCurtain = angular.module('behindTheCurtain', ['ui.router']);
+  var behindTheCurtain = angular.module('behindTheCurtain', ['ui.router']);
 
-behindTheCurtain.config(function($stateProvider, $urlRouterProvider) {
-  $stateProvider.state('home', {
-    url:"",
-    templateUrl: "partials/home.html"
+  behindTheCurtain.config(function($stateProvider, $urlRouterProvider) {
+    $stateProvider.state('home', {
+      url:"",
+      templateUrl: "partials/navbar.html"
+    });
   });
-});
